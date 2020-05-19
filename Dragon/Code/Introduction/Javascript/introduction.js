@@ -10,7 +10,6 @@ function start() {
     dragObject.style.pointerEvents = "fill";
     dropObject[0].style.filter = "none";
     dropObject[1].style.filter = "none";
-    turnOffAudioTheme();
     setTimeout(runLine, 3000);
 }
 //di chuột lên trên start
