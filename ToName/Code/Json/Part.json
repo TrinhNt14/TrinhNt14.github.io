@@ -1,0 +1,60 @@
+var lesson = [];
+lesson.push([
+    {
+        "class" : "trunk",
+        "image" : "../Image/Lesson_1/Trunk.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "root",
+        "image" : "../Image/Lesson_1/Root.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "leaf",
+        "image" : "../Image/Lesson_1/Leaf.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "flower",
+        "image" : "../Image/Lesson_1/Flower.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "fruit",
+        "image" : "../Image/Lesson_1/Fruit.png"
+        // "imageSize" : "270px, 410px"
+    }
+]);
+lesson.push([
+    {
+        "class" : "bodyfish",
+        "image" : "../Image/Lesson_2/body.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "tail",
+        "image" : "../Image/Lesson_2/tail.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "fin",
+        "image" : "../Image/Lesson_2/fin.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "gills",
+        "image" : "../Image/Lesson_2/gills.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "eye",
+        "image" : "../Image/Lesson_2/eye.png"
+        // "imageSize" : "270px, 410px"
+    },
+    {
+        "class" : "mouth",
+        "image" : "../Image/Lesson_2/mouth.png"
+        // "imageSize" : "270px, 410px"
+    }
+]);
