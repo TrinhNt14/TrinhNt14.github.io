@@ -1,8 +1,7 @@
 body {
     margin: 0;
     background-image: url("../Image/Background.jpeg");
-    background-position: auto, 3000px;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: 100% auto;
 }
 #mainBig {
